@@ -39,3 +39,11 @@ using namespace std;
 
 // deklarasi global
 int p, l;
+
+// implementasi prosedur dan fungsi
+void input() {
+    cout << "masukan panjang = ";
+    cin >> p;
+    cout << "masukan lebar = ";
+    cin >> l;
+}
