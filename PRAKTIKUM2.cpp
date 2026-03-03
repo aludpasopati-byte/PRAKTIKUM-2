@@ -16,3 +16,12 @@ void input() {
 float jumlah(float a, float b, float c){
     return a + b + c;
 }
+
+int luaspersegi(){
+    return p * 1;
+}
+
+void output(){
+    cout << "hasilnya = " << luaspersegi() <<endl;
+    cout << "terima kasih";
+}
