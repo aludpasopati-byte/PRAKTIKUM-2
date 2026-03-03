@@ -47,3 +47,15 @@ void input() {
     cout << "masukan lebar = ";
     cin >> l;
 }
+
+float jumlah(float a, float b, float c){
+    return a + b + c;
+}
+
+float jumlah(float a, float b, float c){
+
+}
+
+int luaspersegip(int a, int b){
+    
+}
