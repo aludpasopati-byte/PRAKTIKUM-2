@@ -57,5 +57,16 @@ float jumlah(float a, float b, float c){
 }
 
 int luaspersegip(int a, int b){
-    
+    return a * b;
 }
+
+void output(){
+    cout << "hasilnya = " << luaspersegip(p, l) << endl;
+    cout << "terimakasih" << endl; 
+}
+
+int main() {
+    input();
+    output();
+    cout << "hasil penjumlahan " << jumlah(15.1, 24.9, 67);
+} // selesai
